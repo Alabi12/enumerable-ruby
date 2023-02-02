@@ -3,7 +3,8 @@
 
 This repository includes files with Methods in Ruby:
 
--  [decode-methods.rb](./decode-methods.rb) to create all tables.
+-  [my_lists.rb](./my_lists.rb) to create a class.
+-  [my_enumerable.rb](./my_enumerable.rb) to create a module.
 
 <a name="readme-top"></a>
 
@@ -50,9 +51,9 @@ This repository includes files with Methods in Ruby:
 
 ### Key Features <a name="key-features"></a>
 
-- **[Create_a_method_to_decode_a_Morse_code_character]**
-- **[Create_a_method_to_decode_an_entire_word_in_Morse_code]**
-- **[Create_a_method_to_decode_an_entire_message_in_Morse_code]**
+- **[Create a class MyList that has an instance variable @list.]**
+- **[In MyList implement a method #each that yields successive members of @list]**
+- **Create a module MyEnumerable that implements the following methods: #all? - #any? - #filter]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
