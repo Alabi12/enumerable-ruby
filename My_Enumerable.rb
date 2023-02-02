@@ -1,15 +1,15 @@
 module MyEnumerable
   def all?(&block)
     each { |n| return false unless block.call(n) }
-    true  
+    true
   end
-  def any?
-  (&block)
+
+  def any?(&block)
     each { |n| return true if block.call(n) }
     false
   end
-  def filter
-  (&block)
+
+  def filter(&block)
     result = []
     each { |n| result.push(n) if block.call(n) }
     result
