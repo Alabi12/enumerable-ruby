@@ -1,4 +1,4 @@
-# decode-morse-code
+# Emunerable
 ## Getting Started
 
 This repository includes files with Methods in Ruby:
@@ -31,9 +31,9 @@ This repository includes files with Methods in Ruby:
 - [📝 License](#license)
 
 
-# 📖 [Decode Morse Code] <a name="about-project"></a>
+# 📖 [ Emunerable ] <a name="about-project"></a>
 
-> During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
+> In this project you will learn how to use a module inside your class. For this you will create a class MyList and a module MyEnumerable. Your module MyEnumerable will implement a subset of the functionality of Enumerable.
 
 ## 🛠 Built With <a name="built-with">SQL</a>
 
@@ -80,7 +80,7 @@ To get a local copy up and running follow these simple example steps.
 
 -Reach to following Github URL:
 ```
-https://github.com/Zainab-Alzubair/decode-morse-code
+https://github.com/Alabi12/enumerable-ruby.git
 
 ```
 
@@ -91,7 +91,7 @@ https://github.com/Zainab-Alzubair/decode-morse-code
 -Type git clone in the terminal, paste the URL you copied earlier, and press “enter” to create your local clone.
 
 ```
-$ git clone {https://github.com/Zainab-Alzubair/decode-morse-code}
+$ git clone {https://github.com/Alabi12/enumerable-ruby.git}
 ```
 
 
@@ -109,7 +109,7 @@ Clone this repository to your desired folder:
 
     _cd PATH_
     
-    _git clone https://github.com/Zainab-Alzubair/decode-morse-code.git
+    _git clone https://github.com/Alabi12/enumerable-ruby.git
    
    _cd PATH_
    
@@ -154,7 +154,7 @@ To run the project, execute the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Zainab-Alzubair/decode-morse-code/issues).
+Feel free to check the [issues page](https://github.com/Alabi12/enumerable-ruby.git/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
