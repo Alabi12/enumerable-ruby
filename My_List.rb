@@ -1,9 +1,9 @@
-require_relative 'Mymodule'
+require_relative 'My_Enumerable'
 
-class MyList 
-  include Mymodule 
+class MyList
+  include MyEnumerable
   def initialize(*list)
-    @list = list 
+    @list = list
   end
 
   def each(&block)
